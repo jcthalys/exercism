@@ -1,5 +1,6 @@
 **/**/target
 **/**/.lein-*
-*.DS_Store
+**/**/.nrepl-port
+**/**/.DS_Store
 **.idea/
 **.iml
