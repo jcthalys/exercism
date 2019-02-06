@@ -1,7 +1,7 @@
 (ns armstrong-numbers)
 
 
-(defn get-num-digits [^Integer n]
+(defn get-num-digits [^Long n]
   (map #(Character/getNumericValue ^Character %) (str n)))
 
 
@@ -11,5 +11,4 @@
     (= n
        (->> digits
             (map #(Math/pow % num-digits))
-            (reduce +)
-            (int)))))
+            (reduce +)))))

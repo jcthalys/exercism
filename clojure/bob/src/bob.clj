@@ -23,3 +23,6 @@
     (upper-case-phrase? phrase) "Whoa, chill out!"
     (questions? phrase) "Sure."
     :else "Whatever."))
+
+
+(def a (blank?))
