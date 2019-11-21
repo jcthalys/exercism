@@ -1,6 +1,8 @@
 **/**/target
+**/**.exercism
 **/**/.lein-*
 **/**/.nrepl-port
 **/**/.DS_Store
 **.idea/
 **.iml
+scala/**/project
