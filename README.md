@@ -1,3 +1,3 @@
 # exercism
 
-My clojure solutions from http://exercism.io/
+My exercism solutions from http://exercism.io/
