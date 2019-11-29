@@ -6,3 +6,6 @@
 **.idea/
 **.iml
 scala/**/project
+**/**/.gradle
+**/**/build
+**/**/gradle

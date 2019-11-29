@@ -15,5 +15,4 @@
                       pool (lower-case pool-word)]
                   (and (contains-all-letters word pool)
                        (= (frequencies pool)
-                          (frequencies word)))) pool-word))) coll)
-  )
+                          (frequencies word)))) pool-word))) coll))
